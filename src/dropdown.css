@@ -1,0 +1,7 @@
+ .btnAdd{
+    background-color: #ffffff;
+    border: 1px solid;
+    z-index: 99999;
+    position: absolute;
+    right: 45px;
+ }
